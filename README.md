@@ -1,2 +1,2 @@
-# Foo_bar
-Google Foo Bar Challenge 
+## Foo_bar (Low)
+Google Foo Bar Challenge history
