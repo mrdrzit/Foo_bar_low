@@ -24,4 +24,4 @@ def largest(x):
 
 
 
-solution(12)
+solution(15324)
